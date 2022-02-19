@@ -147,6 +147,11 @@
     <ClCompile Include="Übung E (Unlucky 13).c" />
     <ClCompile Include="Übung F (index von kleinste und zweitkleinste zahl).c" />
     <ClCompile Include="Übung G (reverse an array).c" />
+    <ClCompile Include="Übung I(Tic Tac Toe).c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Uebung8.pdf" />
+    <None Include="Woche 8 Folien(6_Felder_Strings).pdf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

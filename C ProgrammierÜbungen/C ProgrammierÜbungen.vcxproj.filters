@@ -16,6 +16,27 @@
     <Filter Include="Source Files\Übung 8">
       <UniqueIdentifier>{5e1e7098-38a2-43b8-8353-b6946dd0f893}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Übung 2">
+      <UniqueIdentifier>{07f2d72b-6730-4e32-9047-064abc920384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 1">
+      <UniqueIdentifier>{7c2bdc66-bbfc-47d6-a71f-ddb506ef1e3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 3">
+      <UniqueIdentifier>{d91f5ccb-d8bf-47e3-891c-bdcca633558c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 4">
+      <UniqueIdentifier>{b58f12c8-4cc6-4e5b-8968-cf803d8cc067}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 5">
+      <UniqueIdentifier>{c4e9691e-8415-4650-b1de-691cc8541f72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 6">
+      <UniqueIdentifier>{15646b58-3620-4f16-8f3c-ba4d08264ab6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Übung 7">
+      <UniqueIdentifier>{febf0add-00c0-4fa5-b311-b48c73c42a58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c">
@@ -42,5 +63,16 @@
     <ClCompile Include="Übung H%28swap2Arrays%29.c">
       <Filter>Source Files\Übung 8</Filter>
     </ClCompile>
+    <ClCompile Include="Übung I(Tic Tac Toe).c">
+      <Filter>Source Files\Übung 8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Uebung8.pdf">
+      <Filter>Source Files\Übung 8</Filter>
+    </None>
+    <None Include="Woche 8 Folien(6_Felder_Strings).pdf">
+      <Filter>Source Files\Übung 8</Filter>
+    </None>
   </ItemGroup>
 </Project>
