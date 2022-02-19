@@ -39,5 +39,8 @@
     <ClCompile Include="Übung G (reverse an array).c">
       <Filter>Source Files\Übung 8</Filter>
     </ClCompile>
+    <ClCompile Include="Übung H%28swap2Arrays%29.c">
+      <Filter>Source Files\Übung 8</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

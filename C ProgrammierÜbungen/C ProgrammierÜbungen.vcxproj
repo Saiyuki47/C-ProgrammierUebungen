@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Übung H%28swap2Arrays%29.c" />
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c" />
     <ClCompile Include="Übung B%28MaxundMinVonArray%29.c" />
     <ClCompile Include="Übung C %28FirstLast8%29.c" />
