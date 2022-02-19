@@ -1,22 +1,23 @@
 #include <stdio.h>
 
-void minMaxZahlAusArray();
+void minMaxZahlAusArray(int *arr, int len);
 
-int arr[] = { 1,2,3,4,5,6,7,8 };
 
-//int main()
-//{
-//	minMaxZahlAusArray();
-//	return 0;
-//}
+int main()
+{
+	int arr[] = { 1,2,3,4,5,6,7,8 };
 
-void minMaxZahlAusArray()
+	minMaxZahlAusArray(arr,8);
+	return 0;
+}
+
+void minMaxZahlAusArray(int *arr, int len)
 {
 	int min = arr[0];
 	int max = arr[0];
 	//size_t length = sizeof(xyz) / sizeof(xyz[0]);
-	size_t arrLength = sizeof(arr) / sizeof(arr[0]);
-	for (int i = 0; i < arrLength; i++)
+	//size_t arrLength = sizeof(arr) / sizeof(arr[0]);
+	for (int i = 0; i < len; i++)
 	{
 		if (arr[i] > max)
 		{
