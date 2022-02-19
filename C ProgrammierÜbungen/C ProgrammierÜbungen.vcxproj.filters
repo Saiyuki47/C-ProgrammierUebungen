@@ -66,6 +66,9 @@
     <ClCompile Include="Übung I(Tic Tac Toe).c">
       <Filter>Source Files\Übung 8</Filter>
     </ClCompile>
+    <ClCompile Include="Übung B (Hello World).c">
+      <Filter>Source Files\Übung 1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Uebung8.pdf">
@@ -73,6 +76,12 @@
     </None>
     <None Include="Woche 8 Folien(6_Felder_Strings).pdf">
       <Filter>Source Files\Übung 8</Filter>
+    </None>
+    <None Include="Uebung1.pdf">
+      <Filter>Source Files\Übung 1</Filter>
+    </None>
+    <None Include="Woche 1 Folien Einfuehrung.pdf">
+      <Filter>Source Files\Übung 1</Filter>
     </None>
   </ItemGroup>
 </Project>

@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Übung B (Hello World).c" />
     <ClCompile Include="Übung H%28swap2Arrays%29.c" />
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c" />
     <ClCompile Include="Übung B%28MaxundMinVonArray%29.c" />
@@ -150,7 +151,9 @@
     <ClCompile Include="Übung I(Tic Tac Toe).c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Uebung1.pdf" />
     <None Include="Uebung8.pdf" />
+    <None Include="Woche 1 Folien Einfuehrung.pdf" />
     <None Include="Woche 8 Folien(6_Felder_Strings).pdf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
