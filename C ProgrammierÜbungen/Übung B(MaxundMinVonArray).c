@@ -3,13 +3,13 @@
 void minMaxZahlAusArray(int *arr, int len);
 
 
-int main()
-{
-	int arr[] = { 1,2,3,4,5,6,7,8 };
-
-	minMaxZahlAusArray(arr,8);
-	return 0;
-}
+//int main()
+//{
+//	int arr[] = { 1,2,3,4,5,6,7,8 };
+//
+//	minMaxZahlAusArray(arr,8);
+//	return 0;
+//}
 
 void minMaxZahlAusArray(int *arr, int len)
 {
