@@ -66,7 +66,7 @@
     <ClCompile Include="Übung I(Tic Tac Toe).c">
       <Filter>Source Files\Übung 8</Filter>
     </ClCompile>
-    <ClCompile Include="Übung B (Hello World).c">
+    <ClCompile Include="Übung  C %28Hello World%29.c">
       <Filter>Source Files\Übung 1</Filter>
     </ClCompile>
   </ItemGroup>
