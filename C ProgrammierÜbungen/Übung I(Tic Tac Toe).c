@@ -15,53 +15,53 @@ bool check4Win();
 
 #pragma endregion
 
-int main()
-{
-	bool spieler1 = true;
-	int choice = 0;
-
-	fillField();
-	while(1)
-	{
-		if (check4Win())
-		{
-			if(!spieler1)
-			{ 
-				printf("Spieler1 hat gewonnen!");
-				break;
-			}
-			else
-			{
-				printf("Spieler2 hat gewonnen!");
-				break;
-			}
-		}
-
-		generateField();
-
-		if (spieler1)
-		{
-			printf("Spieler1 waehle deine Position :");
-			scanf(" %d \n", &choice);
-			if (check4ValidChoice(choice))
-			{
-				placeChoice(choice, spieler1);
-				spieler1 = false;
-			}
-		}
-		else
-		{
-			printf("Spieler2 waehle deine Position :");
-			scanf(" %d \n", &choice);
-			if (check4ValidChoice(choice))
-			{
-				placeChoice(choice, spieler1);
-				spieler1 = true;
-			}
-		}
-		system("@cls||clear");
-	}
-}
+//int main()
+//{
+//	bool spieler1 = true;
+//	int choice = 0;
+//
+//	fillField();
+//	while(1)
+//	{
+//		if (check4Win())
+//		{
+//			if(!spieler1)
+//			{ 
+//				printf("Spieler1 hat gewonnen!");
+//				break;
+//			}
+//			else
+//			{
+//				printf("Spieler2 hat gewonnen!");
+//				break;
+//			}
+//		}
+//
+//		generateField();
+//
+//		if (spieler1)
+//		{
+//			printf("Spieler1 waehle deine Position :");
+//			scanf(" %d \n", &choice);
+//			if (check4ValidChoice(choice))
+//			{
+//				placeChoice(choice, spieler1);
+//				spieler1 = false;
+//			}
+//		}
+//		else
+//		{
+//			printf("Spieler2 waehle deine Position :");
+//			scanf(" %d \n", &choice);
+//			if (check4ValidChoice(choice))
+//			{
+//				placeChoice(choice, spieler1);
+//				spieler1 = true;
+//			}
+//		}
+//		system("@cls||clear");
+//	}
+//}
 
 bool check4Win()
 {
