@@ -139,6 +139,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Beispielcode aus Vorlesung.c" />
+    <ClCompile Include="Beispiellösung Teilsumme.c" />
+    <ClCompile Include="Code zur Wegsuche.c" />
+    <ClCompile Include="Codebeispiel aus Vorlesung.c" />
+    <ClCompile Include="Codebeispiel Strings.c" />
+    <ClCompile Include="Codebeispiele aus Vorlesung zu Feldern.c" />
+    <ClCompile Include="code_test.c" />
+    <ClCompile Include="Lösungsvorschlag Weihnachtsaufgabe.c" />
+    <ClCompile Include="prim.c" />
+    <ClCompile Include="Schokoriegel (Lösungsvorschlag 1).c" />
+    <ClCompile Include="Schokoriegel (Lösungsvorschlag 2).c" />
+    <ClCompile Include="week_day.c" />
     <ClCompile Include="Übung  C %28Hello World%29.c" />
     <ClCompile Include="Übung H%28swap2Arrays%29.c" />
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c" />
@@ -151,10 +163,33 @@
     <ClCompile Include="Übung I(Tic Tac Toe).c" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Programmtrace Wegsuche (tafel_labyrinth).pdf" />
     <None Include="Uebung1.pdf" />
+    <None Include="Uebung10.pdf" />
+    <None Include="Uebung11.pdf" />
+    <None Include="Uebung12.pdf" />
+    <None Include="Uebung2.pdf" />
+    <None Include="Uebung3.pdf" />
+    <None Include="Uebung4.pdf" />
+    <None Include="Uebung5.pdf" />
+    <None Include="Uebung6.pdf" />
+    <None Include="Uebung7.pdf" />
     <None Include="Uebung8.pdf" />
+    <None Include="Uebung9.pdf" />
     <None Include="Woche 1 Folien Einfuehrung.pdf" />
-    <None Include="Woche 8 Folien(6_Felder_Strings).pdf" />
+    <None Include="Woche 10 (9_Rekursion).pdf" />
+    <None Include="Woche 11 (10_Backtracking).pdf" />
+    <None Include="Woche 2 (1_Bedingungen).pdf" />
+    <None Include="Woche 3 (2_Schleifchen).pdf" />
+    <None Include="Woche 4 (3_Datentypen).pdf" />
+    <None Include="Woche 5 (4_Bits_Dateien).pdf" />
+    <None Include="Woche 6 (5_Funktionen).pdf" />
+    <None Include="Woche 7 %286_Felder_Strings%29.pdf" />
+    <None Include="Woche 8 (7_Datenstrukturen).pdf" />
+    <None Include="Woche 9 (8_Zeiger).pdf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Teilsummenproblem.mp4" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -13,75 +13,185 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Übung 8">
-      <UniqueIdentifier>{5e1e7098-38a2-43b8-8353-b6946dd0f893}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Übung 2">
-      <UniqueIdentifier>{07f2d72b-6730-4e32-9047-064abc920384}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Übung 1">
+    <Filter Include="Source Files\Woche 1">
       <UniqueIdentifier>{7c2bdc66-bbfc-47d6-a71f-ddb506ef1e3c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Übung 3">
+    <Filter Include="Source Files\Woche 2">
+      <UniqueIdentifier>{07f2d72b-6730-4e32-9047-064abc920384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Woche 3">
       <UniqueIdentifier>{d91f5ccb-d8bf-47e3-891c-bdcca633558c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Übung 4">
+    <Filter Include="Source Files\Woche 4">
       <UniqueIdentifier>{b58f12c8-4cc6-4e5b-8968-cf803d8cc067}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Übung 5">
+    <Filter Include="Source Files\Woche 5">
       <UniqueIdentifier>{c4e9691e-8415-4650-b1de-691cc8541f72}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Übung 6">
+    <Filter Include="Source Files\Woche 6">
       <UniqueIdentifier>{15646b58-3620-4f16-8f3c-ba4d08264ab6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Übung 7">
-      <UniqueIdentifier>{febf0add-00c0-4fa5-b311-b48c73c42a58}</UniqueIdentifier>
+    <Filter Include="Source Files\Woche 7">
+      <UniqueIdentifier>{5e1e7098-38a2-43b8-8353-b6946dd0f893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Woche 8">
+      <UniqueIdentifier>{c89f3a8a-55a2-46e8-bb6e-1fe2aa301cc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Woche 9">
+      <UniqueIdentifier>{16c39d06-1c0a-451c-9ff3-6c78593e0a04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Woche 10">
+      <UniqueIdentifier>{07ec64d7-0174-4755-8135-721d6faaa078}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Woche 11">
+      <UniqueIdentifier>{bb9e1e0c-3bae-4f04-a6a2-e2e14f3585ec}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung B%28MaxundMinVonArray%29.c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung C %28FirstLast8%29.c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung D(CountUngeradeZahlen).c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung E (Unlucky 13).c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung F (index von kleinste und zweitkleinste zahl).c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung G (reverse an array).c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung H%28swap2Arrays%29.c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung I(Tic Tac Toe).c">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </ClCompile>
     <ClCompile Include="Übung  C %28Hello World%29.c">
-      <Filter>Source Files\Übung 1</Filter>
+      <Filter>Source Files\Woche 1</Filter>
+    </ClCompile>
+    <ClCompile Include="week_day.c">
+      <Filter>Source Files\Woche 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Schokoriegel (Lösungsvorschlag 1).c">
+      <Filter>Source Files\Woche 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Schokoriegel (Lösungsvorschlag 2).c">
+      <Filter>Source Files\Woche 2</Filter>
+    </ClCompile>
+    <ClCompile Include="prim.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="code_test.c">
+      <Filter>Source Files\Woche 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Codebeispiel aus Vorlesung.c">
+      <Filter>Source Files\Woche 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Codebeispiele aus Vorlesung zu Feldern.c">
+      <Filter>Source Files\Woche 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Codebeispiel Strings.c">
+      <Filter>Source Files\Woche 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Lösungsvorschlag Weihnachtsaufgabe.c">
+      <Filter>Source Files\Woche 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Beispielcode aus Vorlesung.c">
+      <Filter>Source Files\Woche 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Beispiellösung Teilsumme.c">
+      <Filter>Source Files\Woche 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Code zur Wegsuche.c">
+      <Filter>Source Files\Woche 11</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Uebung8.pdf">
-      <Filter>Source Files\Übung 8</Filter>
+      <Filter>Source Files\Woche 7</Filter>
     </None>
-    <None Include="Woche 8 Folien(6_Felder_Strings).pdf">
-      <Filter>Source Files\Übung 8</Filter>
+    <None Include="Woche 7 %286_Felder_Strings%29.pdf">
+      <Filter>Source Files\Woche 7</Filter>
     </None>
     <None Include="Uebung1.pdf">
-      <Filter>Source Files\Übung 1</Filter>
+      <Filter>Source Files\Woche 1</Filter>
     </None>
     <None Include="Woche 1 Folien Einfuehrung.pdf">
-      <Filter>Source Files\Übung 1</Filter>
+      <Filter>Source Files\Woche 1</Filter>
     </None>
+    <None Include="Woche 2 (1_Bedingungen).pdf">
+      <Filter>Source Files\Woche 2</Filter>
+    </None>
+    <None Include="Woche 3 (2_Schleifchen).pdf">
+      <Filter>Source Files\Woche 3</Filter>
+    </None>
+    <None Include="Woche 4 (3_Datentypen).pdf">
+      <Filter>Source Files\Woche 4</Filter>
+    </None>
+    <None Include="Woche 5 (4_Bits_Dateien).pdf">
+      <Filter>Source Files\Woche 5</Filter>
+    </None>
+    <None Include="Woche 6 (5_Funktionen).pdf">
+      <Filter>Source Files\Woche 6</Filter>
+    </None>
+    <None Include="Uebung2.pdf">
+      <Filter>Source Files\Woche 2</Filter>
+    </None>
+    <None Include="Uebung3.pdf">
+      <Filter>Source Files\Woche 3</Filter>
+    </None>
+    <None Include="Uebung4.pdf">
+      <Filter>Source Files\Woche 4</Filter>
+    </None>
+    <None Include="Uebung5.pdf">
+      <Filter>Source Files\Woche 5</Filter>
+    </None>
+    <None Include="Uebung6.pdf">
+      <Filter>Source Files\Woche 6</Filter>
+    </None>
+    <None Include="Uebung7.pdf">
+      <Filter>Source Files\Woche 6</Filter>
+    </None>
+    <None Include="Uebung9.pdf">
+      <Filter>Source Files\Woche 7</Filter>
+    </None>
+    <None Include="Woche 8 (7_Datenstrukturen).pdf">
+      <Filter>Source Files\Woche 8</Filter>
+    </None>
+    <None Include="Uebung10.pdf">
+      <Filter>Source Files\Woche 8</Filter>
+    </None>
+    <None Include="Woche 9 (8_Zeiger).pdf">
+      <Filter>Source Files\Woche 9</Filter>
+    </None>
+    <None Include="Uebung11.pdf">
+      <Filter>Source Files\Woche 9</Filter>
+    </None>
+    <None Include="Woche 10 (9_Rekursion).pdf">
+      <Filter>Source Files\Woche 10</Filter>
+    </None>
+    <None Include="Uebung12.pdf">
+      <Filter>Source Files\Woche 10</Filter>
+    </None>
+    <None Include="Woche 11 (10_Backtracking).pdf">
+      <Filter>Source Files\Woche 11</Filter>
+    </None>
+    <None Include="Programmtrace Wegsuche (tafel_labyrinth).pdf">
+      <Filter>Source Files\Woche 11</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Teilsummenproblem.mp4">
+      <Filter>Source Files\Woche 10</Filter>
+    </Media>
   </ItemGroup>
 </Project>
