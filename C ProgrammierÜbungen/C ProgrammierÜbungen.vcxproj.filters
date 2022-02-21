@@ -135,6 +135,12 @@
     <ClCompile Include="Übung 3 D %28Gleichung Lösen %29.c">
       <Filter>Source Files\Woche 3</Filter>
     </ClCompile>
+    <ClCompile Include="Übung 4 C %28Fakultät%29.c">
+      <Filter>Source Files\Woche 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 4 D %28Leipniz Reihe und mehr%29.c">
+      <Filter>Source Files\Woche 4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Uebung8.pdf">
