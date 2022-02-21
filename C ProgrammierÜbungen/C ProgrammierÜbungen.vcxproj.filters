@@ -114,6 +114,27 @@
     <ClCompile Include="Code zur Wegsuche.c">
       <Filter>Source Files\Woche 11</Filter>
     </ClCompile>
+    <ClCompile Include="Übung 3 B %28Still Going%29.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 C.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 E.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 H %28Quersumme%29.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 I %28Iterierte Quersumme%29.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 G %28Teiler%29.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 3 D %28Gleichung Lösen %29.c">
+      <Filter>Source Files\Woche 3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Uebung8.pdf">

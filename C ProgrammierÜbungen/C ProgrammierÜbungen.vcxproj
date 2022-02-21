@@ -152,6 +152,11 @@
     <ClCompile Include="Schokoriegel (Lösungsvorschlag 2).c" />
     <ClCompile Include="week_day.c" />
     <ClCompile Include="Übung  C %28Hello World%29.c" />
+    <ClCompile Include="Übung 3 C.c" />
+    <ClCompile Include="Übung 3 E.c" />
+    <ClCompile Include="Übung 3 H %28Quersumme%29.c" />
+    <ClCompile Include="Übung 3 I %28Iterierte Quersumme%29.c" />
+    <ClCompile Include="Übung 3 B %28Still Going%29.c" />
     <ClCompile Include="Übung H%28swap2Arrays%29.c" />
     <ClCompile Include="Übung A%28ASCII Dreieck%29.c" />
     <ClCompile Include="Übung B%28MaxundMinVonArray%29.c" />
@@ -161,6 +166,8 @@
     <ClCompile Include="Übung F (index von kleinste und zweitkleinste zahl).c" />
     <ClCompile Include="Übung G (reverse an array).c" />
     <ClCompile Include="Übung I(Tic Tac Toe).c" />
+    <ClCompile Include="Übung 3 D %28Gleichung Lösen %29.c" />
+    <ClCompile Include="Übung 3 G %28Teiler%29.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Programmtrace Wegsuche (tafel_labyrinth).pdf" />
