@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-int main()
-{
-    int ggT(int a, int b);
-    printf("%d", ggT(44,12));
-}
+//int main()
+//{
+//    int ggT(int a, int b);
+//    printf("%d", ggT(44,12));
+//}
+
+
 int ggT(int a, int b)
 {
     if (a == 0)

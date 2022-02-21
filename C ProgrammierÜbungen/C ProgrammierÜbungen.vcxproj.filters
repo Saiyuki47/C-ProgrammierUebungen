@@ -141,6 +141,21 @@
     <ClCompile Include="Übung 4 D %28Leipniz Reihe und mehr%29.c">
       <Filter>Source Files\Woche 4</Filter>
     </ClCompile>
+    <ClCompile Include="Übung 6 F %28Mauern%29.c">
+      <Filter>Source Files\Woche 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 6 D %28ggT%29.c">
+      <Filter>Source Files\Woche 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 6 C %28RundeSumme%29.c">
+      <Filter>Source Files\Woche 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 6 B %28Gewinn%29.c">
+      <Filter>Source Files\Woche 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Übung 6 E %28ggT_kgV%29.c">
+      <Filter>Source Files\Woche 6</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Uebung8.pdf">

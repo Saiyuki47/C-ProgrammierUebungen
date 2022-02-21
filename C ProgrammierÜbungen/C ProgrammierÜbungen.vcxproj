@@ -170,6 +170,11 @@
     <ClCompile Include="Übung 3 D %28Gleichung Lösen %29.c" />
     <ClCompile Include="Übung 3 G %28Teiler%29.c" />
     <ClCompile Include="Übung 4 D %28Leipniz Reihe und mehr%29.c" />
+    <ClCompile Include="Übung 6 E %28ggT_kgV%29.c" />
+    <ClCompile Include="Übung 6 B %28Gewinn%29.c" />
+    <ClCompile Include="Übung 6 C %28RundeSumme%29.c" />
+    <ClCompile Include="Übung 6 D %28ggT%29.c" />
+    <ClCompile Include="Übung 6 F %28Mauern%29.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Programmtrace Wegsuche (tafel_labyrinth).pdf" />
